@@ -1,0 +1,38 @@
+{
+  "name": "lex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "license": "AGPL-version-3.0",
+  "private": false,
+  "engines": {
+    "node": ">= 18.0.0",
+    "npm": ">= 8.0.0"
+  },
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "keywords": [],
+  "author": {
+    "name": "Drazi Crendraven",
+    "email": "drazisil@hey.com",
+    "url": "https://github.com/drazisil"
+  },
+  "contributors": [
+
+  ],
+  "scripts": {
+    "dev": "",
+    "test": ""
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  }
+}
